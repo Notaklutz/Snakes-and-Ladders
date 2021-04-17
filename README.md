@@ -4,4 +4,4 @@ My final project for Grade 11 Introduction to Computer Studies (TEJ3U3). A class
 ## Installation
 This program requires Ready to Program Java in order to run. You can downlaod it [here](http://compsci.ca/holtsoft/).
 
-To run, clone the repository, open <SnakesAndLadders.java> in Ready to Program, and press run.
+To run, clone the repository, open "<SnakesAndLadders.java>" in Ready to Program, and press "<Run>".
