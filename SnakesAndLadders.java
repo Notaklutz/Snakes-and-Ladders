@@ -1322,7 +1322,7 @@ public class SnakesAndLadders
     public static void main (String[] args)
     {
 	SnakesAndLadders s = new SnakesAndLadders ();
-	//s.splashScreen ();
+	s.splashScreen ();
 	while (true)
 	{
 	    s.mainMenu ();
